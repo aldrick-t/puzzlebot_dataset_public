@@ -14,6 +14,8 @@ The images submitted should be in JPG format, with a resolution of **160x120 pix
 
 > ***Note:** **DO NOT** blindly edit the **names:** section in the `data.yaml` file corresponding to your personal/submission dataset, as it may not match the Class IDs assigned to each annotation. As long as the class names are aligned, once preprocessing is done to insert your submission into the main dataset, the classes will be reordered appropriately.
 
+> **Important:** ***Ensure ALL images are taken with the puzzlebot camera.***
+
 *Only sumbit images that are related to the lab environment, do not add images that are not related to the Puzzlebot environment, such as images of other robots, vehicles, or objects that do not fit the classes defined in this dataset nor background images outside the Puzzlebot environment not lighting profiles outside those ocurring within the lab.*
 
 If there are any issues with your submission, you will be contacted via the email address provided in your GitHub profile.
